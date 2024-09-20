@@ -1,0 +1,16 @@
+pip install sys
+pip install shutil
+pip install traceback
+pip install main
+pip install PyQt6
+pip install docx
+pip install re
+pip install datetime
+pip install docxtpl
+pip install pprint
+pip install validation
+pip install pytrovich
+pip install json
+pip install zipfile
+pip install shutil
+pip install os
